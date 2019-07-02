@@ -55,7 +55,8 @@ function form(){
           // and add it to your array "errors".
           errors.em = "Your email is invalid!";
        // End your nested conditional here.
-        }else {
+        }
+    }else {
     // Otherwise:
        // Create a corresponding error-message
        // and add it to your array "errors"
